@@ -1,0 +1,13 @@
+{
+  "name": "managedroplets",
+  "version": "0.0.0",
+  "description": "managedroplets",
+  "main": "app.js",
+  "author": {
+    "name": "Jaaromy.Zierse",
+    "email": ""
+  },
+  "dependencies": {
+    "do-wrapper": "^3.3.3"
+  }
+}

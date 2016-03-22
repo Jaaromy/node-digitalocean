@@ -1,0 +1,21 @@
+{
+  "name": "managedroplets",
+  "version": "0.1.0",
+  "description": "managedroplets",
+  "main": "app.js",
+  "author": {
+    "name": "Jaaromy Zierse"
+  },
+  "dependencies": {
+    "do-wrapper": "^3.3.3",
+    "dotenv": "^2.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha test"
+  }
+}

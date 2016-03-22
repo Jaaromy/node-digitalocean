@@ -1,5 +1,5 @@
-﻿var config = require('../helper/config.js');
-var testUtil = require('../helper/testutil.js');
+﻿var config = require('./helper/config.js');
+var testUtil = require('./helper/testutil.js');
 
 describe('MochaTests', function () {
 	describe('#should', function () {

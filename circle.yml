@@ -3,4 +3,5 @@ machine:
     version: 5.9.0
 test:
   override:
+    - cd managedroplets
     - npm test
